@@ -3,6 +3,8 @@
 [![Greenkeeper badge](https://badges.greenkeeper.io/louisthomas/angular-demo.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/github/louisthomas/angular-demo/badge.svg)](https://snyk.io/test/github/louisthomas/angular-demo)
 [![Build Status](https://travis-ci.org/louisthomas/angular-demo.svg?branch=master)](https://travis-ci.org/louisthomas/angular-demo)
+[![Maintainability](https://api.codeclimate.com/v1/badges/de40a36c6adb4e0a7911/maintainability)](https://codeclimate.com/github/louisthomas/angular-demo/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/de40a36c6adb4e0a7911/test_coverage)](https://codeclimate.com/github/louisthomas/angular-demo/test_coverage)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.7.
 
