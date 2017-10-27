@@ -2,6 +2,7 @@
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/louisthomas/angular-demo.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/github/louisthomas/angular-demo/badge.svg)](https://snyk.io/test/github/louisthomas/angular-demo)
+[![Build Status](https://travis-ci.org/louisthomas/angular-demo.svg?branch=master)](https://travis-ci.org/louisthomas/angular-demo)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.7.
 
